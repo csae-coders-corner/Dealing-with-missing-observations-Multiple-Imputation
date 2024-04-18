@@ -1,3 +1,5 @@
+![CC Graphics 2024_Multipleimputation](https://github.com/csae-coders-corner/Dealing-with-missing-observations-Multiple-Imputation/assets/148211163/c0d172c5-ac70-4e6a-86ca-3a00d9258002)
+
 # Dealing-with-missing-observations-Multiple-Imputation
 Missing observations or attrition are a common issue in empirical research. This post briefly discusses the method multiple imputation to deal with missing observations.[^1] Multiple imputation replaces every missing value of the variable with a list of simulated values.  We can then run the required specification to estimate the parameter of interest using the imputed dataset. 
 
